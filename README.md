@@ -1,9 +1,9 @@
 # studionova
 
--HTML
--CSS
--SASS(SCSS)
-JavaScript
--GULP
--WebPack
--BEM
+- HTML
+- CSS
+- SASS(SCSS)
+- JavaScript
+- GULP
+- WebPack
+- BEM
