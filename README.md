@@ -2,7 +2,7 @@
 
 - HTML
 - CSS
-- SASS(SCSS)
+- SASS (SCSS)
 - JavaScript
 - GULP
 - WebPack
