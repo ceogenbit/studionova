@@ -1,4 +1,4 @@
-# studionova
+# studionowa
 
 - HTML
 - CSS
